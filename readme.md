@@ -210,4 +210,3 @@ Jupyter-ноутбук для быстрого визуального теста
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 - [Albumentations](https://github.com/albumentations-team/albumentations)
 - Методы XAI: EigenCAM, Grad-CAM, SmoothGrad, Integrated Gradients, Faithfulness
-```
